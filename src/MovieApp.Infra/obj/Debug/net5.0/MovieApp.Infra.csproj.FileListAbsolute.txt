@@ -1,0 +1,15 @@
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\MovieApp.Infra.csprojAssemblyReference.cache
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\MovieApp.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\MovieApp.Infra.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\MovieApp.Infra.AssemblyInfo.cs
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\MovieApp.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\bin\Debug\net5.0\MovieApp.Infra.deps.json
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\bin\Debug\net5.0\MovieApp.Infra.dll
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\bin\Debug\net5.0\ref\MovieApp.Infra.dll
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\bin\Debug\net5.0\MovieApp.Infra.pdb
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\bin\Debug\net5.0\MovieApp.Core.dll
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\bin\Debug\net5.0\MovieApp.Core.pdb
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\MovieApp.Infra.csproj.CopyComplete
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\MovieApp.Infra.dll
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\ref\MovieApp.Infra.dll
+C:\Projetos\Pessoal\MovieApp\src\MovieApp.Infra\obj\Debug\net5.0\MovieApp.Infra.pdb

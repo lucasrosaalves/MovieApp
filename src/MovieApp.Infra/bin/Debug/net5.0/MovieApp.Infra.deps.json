@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MovieApp.Infra/1.0.0": {
+        "dependencies": {
+          "MovieApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "MovieApp.Infra.dll": {}
+        }
+      },
+      "MovieApp.Core/1.0.0": {
+        "runtime": {
+          "MovieApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieApp.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovieApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

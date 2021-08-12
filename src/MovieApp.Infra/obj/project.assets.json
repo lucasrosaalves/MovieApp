@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MovieApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MovieApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../MovieApp.Core/MovieApp.Core.csproj",
+      "msbuildProject": "../MovieApp.Core/MovieApp.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MovieApp.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lucas.alves\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\Pessoal\\MovieApp\\src\\MovieApp.Infra\\MovieApp.Infra.csproj",
+      "projectName": "MovieApp.Infra",
+      "projectPath": "C:\\Projetos\\Pessoal\\MovieApp\\src\\MovieApp.Infra\\MovieApp.Infra.csproj",
+      "packagesPath": "C:\\Users\\lucas.alves\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\Pessoal\\MovieApp\\src\\MovieApp.Infra\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lucas.alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Projetos\\Pacotes Nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/ChampionX-DevOps/518a001c-1638-42ea-bfd5-3945fd007a0e/_packaging/digital-solutions/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/ChampionX-DevOps/_packaging/ChampionX-DevOps%40Local/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Projetos\\Pessoal\\MovieApp\\src\\MovieApp.Core\\MovieApp.Core.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoal\\MovieApp\\src\\MovieApp.Core\\MovieApp.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
